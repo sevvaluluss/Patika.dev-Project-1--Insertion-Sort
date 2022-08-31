@@ -35,6 +35,12 @@ o(n^2)
 -avarage case
 
 
-Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
+5) Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
+
+
+ 7 3 5 8 2 9 4 15 6 
+ 3 7 5 8 2 9 4 15 6 
+ 3 5 7 8 2 9 4 15 6 
+ 3 5 7 8 2 9 4 15 6 
 
 
